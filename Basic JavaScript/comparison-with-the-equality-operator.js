@@ -1,4 +1,4 @@
-9// Setup
+// Setup
 function testEqual(val) {
   if (val==10) {
     return "Not Equal"; 
